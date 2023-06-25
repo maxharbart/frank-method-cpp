@@ -1,0 +1,3 @@
+/Users/maximgarbart/Yandex.Disk.localized/frank-method-cpp/cmake-build-debug/CMakeFiles/frank_method_cpp.dir
+/Users/maximgarbart/Yandex.Disk.localized/frank-method-cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/maximgarbart/Yandex.Disk.localized/frank-method-cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
